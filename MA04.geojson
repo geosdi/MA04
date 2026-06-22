@@ -1062,45 +1062,6 @@
     {
       "geometry": {
         "coordinates": [
-          132034.0,
-          432953.0
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "altro_produttore": null,
-        "anno_acquisto": "2023",
-        "cancellata": false,
-        "codice": "MA04",
-        "codice_compilatore": "98QQSM",
-        "codice_test": "MA04",
-        "data": "2026-06-20 09:00:00",
-        "data_ora_rilevazione": "2026-06-20 09:31:39.291749",
-        "descrizione_localizzazione": "Monti di Santa Maria Nuova",
-        "descrizione_report": "Diga di Castreccioni (MC)",
-        "dettaglio_visualizzazione_messaggio": null,
-        "entita_organizzatrice": "Marche",
-        "id": "6ac1dfdc-35de-4b71-a650-efaed5e18867",
-        "localizzazione": "Diga di Castreccioni (MC)",
-        "luoghi_interessati": "Cingoli (MC)",
-        "modello": null,
-        "note": null,
-        "operatore": "TIM",
-        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
-        "ora_ricezione": "11:25",
-        "produttore": "Apple",
-        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
-        "ricezione_messaggio": "S",
-        "tecnologia": "5G (4.5G)",
-        "tipo_geometria": "Poligono",
-        "tipologia_report": "collasso diga (CGD)",
-        "visualizzazione_messaggio": "S"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.4432586,
           43.5273539
         ],
@@ -2070,45 +2031,6 @@
         "tipo_geometria": "Poligono",
         "tipologia_report": "collasso diga (CGD)",
         "visualizzazione_messaggio": "S"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          1362156.0,
-          43.5135
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "altro_produttore": null,
-        "anno_acquisto": "2019",
-        "cancellata": false,
-        "codice": "MA04",
-        "codice_compilatore": "9QHXCG",
-        "codice_test": "MA04",
-        "data": "2026-06-20 09:00:00",
-        "data_ora_rilevazione": "2026-06-20 09:52:54.460982",
-        "descrizione_localizzazione": "numana",
-        "descrizione_report": "Diga di Castreccioni (MC)",
-        "dettaglio_visualizzazione_messaggio": null,
-        "entita_organizzatrice": "Marche",
-        "id": "afe1f165-c049-40c0-82c0-37da7c943f9f",
-        "localizzazione": "Diga di Castreccioni (MC)",
-        "luoghi_interessati": "Cingoli (MC)",
-        "modello": "iphone12",
-        "note": null,
-        "operatore": "1Mobile",
-        "operatore_id": "1d5ee84d-5869-4593-9479-7b016310c742",
-        "ora_ricezione": "11:40",
-        "produttore": "Apple",
-        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
-        "ricezione_messaggio": "S",
-        "tecnologia": "4G/LTE",
-        "tipo_geometria": "Poligono",
-        "tipologia_report": "collasso diga (CGD)",
-        "visualizzazione_messaggio": "N"
       },
       "type": "Feature"
     },
