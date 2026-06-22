@@ -1,0 +1,2891 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.620475,
+          43.493659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "UY1CER",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:51:38.820313",
+        "descrizione_localizzazione": "Marcelli via fonte antica (zona Campo Sportivo)",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": "Inglese italiano e con scritto test collasso diga",
+        "entita_organizzatrice": "Marche",
+        "id": "003accbd-a08e-4385-93ad-00db527d44c0",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Altro",
+        "operatore_id": "422b0d8b-fec4-4fc8-a724-16faeb895888",
+        "ora_ricezione": "11:20",
+        "produttore": "Altro",
+        "produttore_id": "49d41b29-03ae-4d25-8feb-39b3c866b8bb",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3138293,
+          43.4709471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "84I4EH",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:26:52.375367",
+        "descrizione_localizzazione": "Via Pradellona, Santa Maria Nuova (AN) ",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": "Messaggio chiaro ",
+        "entita_organizzatrice": "Marche",
+        "id": "0120eb5f-2f40-49a6-a8e2-e0286b7bd132",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "Honor 90",
+        "note": null,
+        "operatore": "Iliad",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "ora_ricezione": "11:20",
+        "produttore": "Honor",
+        "produttore_id": "f217a576-2c15-4709-9b96-333bc546fd33",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.308046841659714,
+          43.495211566559256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": null,
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "GZA7HB",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:32:04.121073",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "062a93f4-d6ef-499b-ba4e-1b185a16aefa",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Vodafone",
+        "operatore_id": "9707780f-5dc6-4328-bb3f-13fe02a338f8",
+        "ora_ricezione": "11:25",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6166216,
+          43.526168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": null,
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "XGUIW3",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 10:03:57.511863",
+        "descrizione_localizzazione": "Comune di Sirolo",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "09a8f3ed-8ace-4c02-980f-d89a4cbf618e",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:20",
+        "produttore": "Redmi",
+        "produttore_id": "cad7437e-8240-4013-87cf-265aa0bde012",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3938351,
+          43.524995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": null,
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "JF9P49",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:42:29.466738",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "0a32cc91-07e0-47bc-ab2e-eac81d9683e6",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "A52",
+        "note": null,
+        "operatore": "Fastweb",
+        "operatore_id": "6f4964b8-3db4-4841-be72-7202c07b17bc",
+        "ora_ricezione": "11:20",
+        "produttore": "Samsung",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "ricezione_messaggio": "N",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.414497871712706,
+          43.48467652216593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "VWXAXG",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:26:53.194556",
+        "descrizione_localizzazione": "Palabaldinelli osimo",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "137b7087-860a-45b5-bb11-acca51d0dba0",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "Iphone16promax",
+        "note": null,
+        "operatore": "Spusu",
+        "operatore_id": "85b9910f-8c65-4e34-92be-82209ba56f51",
+        "ora_ricezione": "11:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5292296,
+          43.385522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "ELCQDF",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:56:32.591558",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "1a73830f-5e30-4379-accb-87256b110fee",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:20",
+        "produttore": "Samsung",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3270757,
+          43.6035252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": "Redmi",
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "XQ6AGE",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-21 10:10:20.768434",
+        "descrizione_localizzazione": "Ero in macchina a Jesi",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "1bc5f5f6-67da-40db-87ad-4949bf8ba831",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Iliad",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "ora_ricezione": "11:35",
+        "produttore": "Samsung",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1243879,
+          43.456064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": "No",
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "RJ4GY2",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 10:19:10.72232",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "1d36e9fa-8ecf-420e-9f8a-e7f0956d030e",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Very Mobile",
+        "operatore_id": "345f62ba-02de-4eee-aa5d-02f1141c630e",
+        "ora_ricezione": "11:50",
+        "produttore": "Redmi",
+        "produttore_id": "cad7437e-8240-4013-87cf-265aa0bde012",
+        "ricezione_messaggio": "S",
+        "tecnologia": "3G",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.292008,
+          43.539528
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "TU25GS",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:29:58.471567",
+        "descrizione_localizzazione": "Canile Sanitario Via Zanibelli, 6 Jesi (AN)",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "1fd9eaf5-4101-49ac-8bb5-3138e5dfa879",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "Galaxy S23 Ultra",
+        "note": null,
+        "operatore": "WindTre",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "ora_ricezione": "11:20",
+        "produttore": "Samsung",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.27901,
+          43.5548735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "J9H18X",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 11:43:55.467823",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "28439965-f1da-42fa-87b0-827edda4f6fa",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Very Mobile",
+        "operatore_id": "345f62ba-02de-4eee-aa5d-02f1141c630e",
+        "ora_ricezione": "11:15",
+        "produttore": "Honor",
+        "produttore_id": "f217a576-2c15-4709-9b96-333bc546fd33",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.118251669546193,
+          43.513513513513516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2021",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "RRJQ3P",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:26:39.009384",
+        "descrizione_localizzazione": "Moie di Maiolati Spontini (an) ",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": "Non arrivato",
+        "entita_organizzatrice": "Marche",
+        "id": "2eae0929-cbc4-46c4-a487-5f5071e1c688",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "S21",
+        "note": "Nessun messaggio",
+        "operatore": "Iliad",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "ora_ricezione": "11:20",
+        "produttore": "Samsung",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "ricezione_messaggio": "N",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "N"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.124244166282686,
+          43.505546050219706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2020",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "JAQE3X",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:26:28.417759",
+        "descrizione_localizzazione": "Moie",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "33194aef-d2de-4d32-b029-7ebf7e09865b",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "SE 2020",
+        "note": null,
+        "operatore": "CoopVoce",
+        "operatore_id": "a2181f6c-1cee-4fa2-8011-0ee9a4b6815b",
+        "ora_ricezione": "11:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "N",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "N"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1243845,
+          43.4560608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": null,
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "RJ4GY2",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 10:10:50.687068",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "3e90d694-7791-4752-92e7-dac7477b4d76",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Altro",
+        "operatore_id": "422b0d8b-fec4-4fc8-a724-16faeb895888",
+        "ora_ricezione": "10:55",
+        "produttore": "Redmi",
+        "produttore_id": "cad7437e-8240-4013-87cf-265aa0bde012",
+        "ricezione_messaggio": "S",
+        "tecnologia": "3G",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3210177,
+          43.4880807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "3M5MB4",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:26:27.751205",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "41208358-303b-4b80-99f2-81a91e0cff67",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Kena Mobile",
+        "operatore_id": "5c923728-75e6-42db-bbcc-59ee2b0950d2",
+        "ora_ricezione": "11:20",
+        "produttore": "Google",
+        "produttore_id": "e42a0bb0-a5e2-4153-b478-683fcfba9250",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4146566,
+          43.4844819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": "Iqoo",
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "8KEDS5",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:39:23.102894",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "416c9732-1722-4f1f-9a79-f9ee9da80e7b",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "Neo 10",
+        "note": null,
+        "operatore": "WindTre",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "ora_ricezione": "11:20",
+        "produttore": "Altro",
+        "produttore_id": "49d41b29-03ae-4d25-8feb-39b3c866b8bb",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3420623,
+          43.4350403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2022",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "ZSXV6I",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:31:28.932097",
+        "descrizione_localizzazione": "COC Filottrano Via Grazie",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": "Sisma con collasso diga Castreccioni (Cingoli MC)",
+        "entita_organizzatrice": "Marche",
+        "id": "49e56de1-4ba5-4e81-8082-531365965068",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Vodafone",
+        "operatore_id": "9707780f-5dc6-4328-bb3f-13fe02a338f8",
+        "ora_ricezione": "11:20",
+        "produttore": "Oppo",
+        "produttore_id": "b201dda4-82ea-4684-958f-73a146e1e62e",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1245467,
+          43.5057073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2020",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "RZX3EV",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:26:10.994968",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "503a2001-1266-44a6-9473-b46df1847dfc",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "Hp30",
+        "note": null,
+        "operatore": "Altro",
+        "operatore_id": "422b0d8b-fec4-4fc8-a724-16faeb895888",
+        "ora_ricezione": "11:20",
+        "produttore": "Huawei",
+        "produttore_id": "410b2adf-f72a-43ab-a46f-ca48e3ff62f8",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3080207,
+          43.4951623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": null,
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "S7E462",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:25:10.908484",
+        "descrizione_localizzazione": "Sede coc",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "52591076-e4eb-4ec5-a7f5-f4e446df8291",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:25",
+        "produttore": "Motorola",
+        "produttore_id": "50c979d4-96f8-49f3-97ff-1edae490039e",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.18485,
+          43.43341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "AQ7UR1",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:42:46.102348",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "5745ba76-117c-4459-bcac-e5cccd5b2cf3",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Fastweb",
+        "operatore_id": "6f4964b8-3db4-4841-be72-7202c07b17bc",
+        "ora_ricezione": "11:20",
+        "produttore": "Oppo",
+        "produttore_id": "b201dda4-82ea-4684-958f-73a146e1e62e",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1243823,
+          43.4560615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": "No",
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "RJ4GY2",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 10:16:16.679436",
+        "descrizione_localizzazione": "Casa ",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "583e3baf-16ba-4191-a6d2-814719a16f32",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Very Mobile",
+        "operatore_id": "345f62ba-02de-4eee-aa5d-02f1141c630e",
+        "ora_ricezione": "11:50",
+        "produttore": "Redmi",
+        "produttore_id": "cad7437e-8240-4013-87cf-265aa0bde012",
+        "ricezione_messaggio": "S",
+        "tecnologia": "3G",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.312705248820423,
+          43.595576080242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "R5JLP6",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 14:00:40.189",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "59f82108-46f6-4128-b071-4e491a39ec38",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "iIhone 15 pro max",
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "Oltre le 13:00",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "N",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "N"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3829851,
+          43.485078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "113DX3",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:39:17.292171",
+        "descrizione_localizzazione": "Via Jesi, 495 Osimo",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "5d9f622e-603b-435b-92ac-722399cf19de",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "I phone 14",
+        "note": null,
+        "operatore": "Iliad",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "ora_ricezione": "11:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3484167,
+          43.4316912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "VGXHIG",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:29:23.782912",
+        "descrizione_localizzazione": "Casa, via Toscana 7 B",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": "Tutto giusto, sia il messaggio che la spiegazione vocale.",
+        "entita_organizzatrice": "Marche",
+        "id": "5f4acab7-7de3-48fe-bef7-908b459bdea3",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "Realme GT7 pro ",
+        "note": "Anno di acquisto del cellulare arriva al 2024. Io l'ho acquistato nel 2026. \n",
+        "operatore": "Spusu",
+        "operatore_id": "85b9910f-8c65-4e34-92be-82209ba56f51",
+        "ora_ricezione": "11:20",
+        "produttore": "Oppo",
+        "produttore_id": "b201dda4-82ea-4684-958f-73a146e1e62e",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3079635,
+          43.4952008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2022",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "GD63E1",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:33:16.974825",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "62e6697a-e586-4a09-a420-05ab0eb75620",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "WindTre",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "ora_ricezione": "11:20",
+        "produttore": "Huawei",
+        "produttore_id": "410b2adf-f72a-43ab-a46f-ca48e3ff62f8",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.18485,
+          43.43341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "Q1IW11",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:57:50.50162",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "65224fa3-9c82-4feb-994d-8ae9b1e769b5",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Vodafone",
+        "operatore_id": "9707780f-5dc6-4328-bb3f-13fe02a338f8",
+        "ora_ricezione": "11:20",
+        "produttore": "Huawei",
+        "produttore_id": "410b2adf-f72a-43ab-a46f-ca48e3ff62f8",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1305009,
+          43.391138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "EJKRAP",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:24:59.180024",
+        "descrizione_localizzazione": "Coc comunale",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "6541d865-683c-494d-8ee0-daa13a5c9d43",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "S24 ultra",
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:20",
+        "produttore": "Samsung",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132034.0,
+          432953.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "98QQSM",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:31:39.291749",
+        "descrizione_localizzazione": "Monti di Santa Maria Nuova",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "6ac1dfdc-35de-4b71-a650-efaed5e18867",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:25",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4432586,
+          43.5273539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "FQXXSU",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 10:01:09.951627",
+        "descrizione_localizzazione": "In moto dalle 11:30 alle 11:50. Ora stabile in via Risorgimento 1, 60020 Offagna AN.",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": "Messaggio chiaro riferito ad una simulazione. Messaggio in lingua Italia a e inglese.",
+        "entita_organizzatrice": "Marche",
+        "id": "6c6cc4dc-cf0a-4044-93a6-c5fc891c4421",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "R75",
+        "note": "Nota Bene. Nei Paesi Bassi la popolazione riceve alle ore 12:00 della prima domenica di OGNI mese un messaggio di prova NL-alert. Non dispiace alla popolazione. Per maggiori informazioni sono a disposizione.",
+        "operatore": "Iliad",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "ora_ricezione": "11:30",
+        "produttore": "Redmi",
+        "produttore_id": "cad7437e-8240-4013-87cf-265aa0bde012",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.18485,
+          43.43341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": null,
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "GRGTWG",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:50:50.115389",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "6f752320-913a-4eb8-a4fd-e5e70f4a8acb",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Kena Mobile",
+        "operatore_id": "5c923728-75e6-42db-bbcc-59ee2b0950d2",
+        "ora_ricezione": "11:25",
+        "produttore": "Oppo",
+        "produttore_id": "b201dda4-82ea-4684-958f-73a146e1e62e",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5727745,
+          43.3386111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": null,
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "HI1FT1",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 10:55:41.737726",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "74dd1d6d-8aed-4e00-968b-38133af143e5",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:30",
+        "produttore": "Xiaomi",
+        "produttore_id": "502c58cc-8af7-4aa9-b30f-dfe20b39eb47",
+        "ricezione_messaggio": "N",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "N"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.276322988260887,
+          43.44144144144144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2021",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "KPW68U",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 10:30:05.825288",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "79c2c336-4098-40fa-ab78-e0de5014d9ee",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "Samsung galaxy ",
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:55",
+        "produttore": "Samsung",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4609165,
+          43.5090515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2022",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "MPQ73H",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:31:18.328215",
+        "descrizione_localizzazione": "Santo Stefano di Osimo",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "7b5936c1-06bd-4466-9dc2-849e6a48309b",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "S23",
+        "note": null,
+        "operatore": "Iliad",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "ora_ricezione": "11:25",
+        "produttore": "Samsung",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.18485,
+          43.43341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "TUSHNY",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:31:59.038182",
+        "descrizione_localizzazione": "Coc comunale",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "82c46620-17cd-4bc1-8351-0528594c5e15",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Very Mobile",
+        "operatore_id": "345f62ba-02de-4eee-aa5d-02f1141c630e",
+        "ora_ricezione": "11:25",
+        "produttore": "Altro",
+        "produttore_id": "49d41b29-03ae-4d25-8feb-39b3c866b8bb",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.61828467799015,
+          43.43712937607828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "Z18T2I",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:33:29.237538",
+        "descrizione_localizzazione": "WINDTRE iPhone 14",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "82f9ccaa-f65f-4add-9765-44d8d61a41ed",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "WindTre",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "ora_ricezione": "11:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3885754,
+          43.5265301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "1WTGHR",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:36:17.867856",
+        "descrizione_localizzazione": "ILIAD   HONOR Magic 7 lite",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "8566eb73-51a9-42c7-9456-814d4be18083",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "BRP- NX1M",
+        "note": null,
+        "operatore": "Iliad",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "ora_ricezione": "11:20",
+        "produttore": "Honor",
+        "produttore_id": "f217a576-2c15-4709-9b96-333bc546fd33",
+        "ricezione_messaggio": "N",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "N"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.23221,
+          43.528751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2021",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "LTH47D",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 10:06:33.437634",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "876c87e7-a85c-4f2c-bdef-72c22ca5242d",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "WindTre",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "ora_ricezione": "11:30",
+        "produttore": "Samsung",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3882,
+          43.299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "5IQ9DH",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:37:44.069653",
+        "descrizione_localizzazione": "Numana",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "87d51b68-8a39-448b-9b6d-c1afeac0f2e0",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "IPhone 15",
+        "note": null,
+        "operatore": "Iliad",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "ora_ricezione": "11:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.383207125761627,
+          43.52835882641453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "EETIQK",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:31:51.695059",
+        "descrizione_localizzazione": "Polverigi",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "885cb85e-1bbe-4fd0-ad72-aff806831347",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "Iphone 15 pro",
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "N",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "N"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.18485,
+          43.43341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2021",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "KFU5HR",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:48:41.499202",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "898d7198-020b-4128-8b91-99427acd9e3a",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Iliad",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "ora_ricezione": "11:20",
+        "produttore": "Honor",
+        "produttore_id": "f217a576-2c15-4709-9b96-333bc546fd33",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.18485,
+          43.43341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": null,
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "C4GIKM",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:52:29.174932",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "8f8001b2-0916-4a15-ba67-02181bb220e1",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:20",
+        "produttore": "Xiaomi",
+        "produttore_id": "502c58cc-8af7-4aa9-b30f-dfe20b39eb47",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6087705,
+          43.4984486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": null,
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "8LGQI9",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:33:53.049311",
+        "descrizione_localizzazione": "Svarchi Numana ",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": "Lingua italiana e inglese test Collasso  diga ",
+        "entita_organizzatrice": "Marche",
+        "id": "915d4e71-e601-4ce7-9cfe-d771cb4bde6b",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": "T",
+        "operatore": "Fastweb",
+        "operatore_id": "6f4964b8-3db4-4841-be72-7202c07b17bc",
+        "ora_ricezione": "11:20",
+        "produttore": "Altro",
+        "produttore_id": "49d41b29-03ae-4d25-8feb-39b3c866b8bb",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.618292,
+          43.437418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "YWSZVB",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:52:34.675921",
+        "descrizione_localizzazione": "COC Loreto ",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "91645d2d-1695-4e4a-819f-a6a2b68fd7f2",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "iPhone 12 pro",
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6233112,
+          43.4958952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2020",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "LYRBTQ",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:35:02.446458",
+        "descrizione_localizzazione": "Rotatoria via Bologna/Modena , Marcelli di Numana",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "9309f7ea-6d89-44a3-aea1-405e84fafbab",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "Find X3 lite ",
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:20",
+        "produttore": "Oppo",
+        "produttore_id": "b201dda4-82ea-4684-958f-73a146e1e62e",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3414367,
+          43.4348282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "AXRXYH",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 10:26:59.692596",
+        "descrizione_localizzazione": "Via grazie 66",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": "IT-Alert\n\nTEST TEST Messaggio di prova IT-alert. E' in corso la SIMULAZIONE del collasso di una diga nella zona in cui ti trovi.\nPer conoscere il messaggio che riceverai in caso di reale pericolo e per compilare il questionario vai su www.it-alert.gov.it\nTEST TEST\nTEST TEST IT-alert test message.\nThere is an ongoing SIMULATION of a dam collapse in the area where you are.\nTo learn what message you will receive in case of real danger and to fill out the survey, go to www.it-alert.gov.it/en TEST TEST",
+        "entita_organizzatrice": "Marche",
+        "id": "93dae834-07bf-4338-9b64-8d1419f85c71",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "iPhone 13",
+        "note": null,
+        "operatore": "Iliad",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "ora_ricezione": "11:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.54966742450434,
+          43.46121897892949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "FNU7FR",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:25:59.720487",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "98f71350-a5ef-4dbe-abbb-23f097829b96",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "iPhone X",
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.18485,
+          43.43341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2022",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "2PEDSM",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:33:22.120905",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "9984f0d8-ef8b-4cb0-a77b-b8b8793b0816",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Iliad",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "ora_ricezione": "11:20",
+        "produttore": "Honor",
+        "produttore_id": "f217a576-2c15-4709-9b96-333bc546fd33",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3079677,
+          43.4952005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "XYAKEQ",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 10:00:48.622658",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "9a5f5f7a-f9f6-402b-8aed-a94715c7ecf5",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:20",
+        "produttore": "Samsung",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.346997,
+          43.4364578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": "REALME",
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "IE24Q2",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:27:26.527234",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "9f01a60d-ce13-4b79-bc6c-b7fb4b477125",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "G7",
+        "note": null,
+        "operatore": "Vodafone",
+        "operatore_id": "9707780f-5dc6-4328-bb3f-13fe02a338f8",
+        "ora_ricezione": "11:20",
+        "produttore": "Altro",
+        "produttore_id": "49d41b29-03ae-4d25-8feb-39b3c866b8bb",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.41449787199996,
+          43.4846765149308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": null,
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "9LCQKW",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:24:48.42426",
+        "descrizione_localizzazione": "Palabaldinelli osimo",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "a2f45c75-373d-493c-8833-3c14a8f6eb4b",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "Iph",
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:20",
+        "produttore": "Samsung",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.341414,
+          43.435137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2019",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "V2GY6U",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:59:58.136964",
+        "descrizione_localizzazione": "Centro operativo comunale",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "a3c7357a-2010-4259-8d2c-85438f7443e0",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "A50",
+        "note": null,
+        "operatore": "WindTre",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "ora_ricezione": "11:20",
+        "produttore": "Samsung",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3138406,
+          43.5021037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": "Realme 7",
+        "anno_acquisto": "2022",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "9C5V1H",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:27:34.423648",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "a657b59d-abab-4686-9d35-591fb798d3c9",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:20",
+        "produttore": "Redmi",
+        "produttore_id": "cad7437e-8240-4013-87cf-265aa0bde012",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1237896,
+          43.5054618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "WLNMZL",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:27:47.068357",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "a9b93359-f7d2-4dd4-8d62-6d0e3d27c6f6",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "A78",
+        "note": null,
+        "operatore": "Iliad",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "ora_ricezione": "11:20",
+        "produttore": "Oppo",
+        "produttore_id": "b201dda4-82ea-4684-958f-73a146e1e62e",
+        "ricezione_messaggio": "N",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1362156.0,
+          43.5135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2019",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "9QHXCG",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:52:54.460982",
+        "descrizione_localizzazione": "numana",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "afe1f165-c049-40c0-82c0-37da7c943f9f",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "iphone12",
+        "note": null,
+        "operatore": "1Mobile",
+        "operatore_id": "1d5ee84d-5869-4593-9479-7b016310c742",
+        "ora_ricezione": "11:40",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "N"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.18485,
+          43.43341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "DLN4ER",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:47:09.512671",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "b099f11b-f10a-4023-955e-7f91035a3d5f",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Fastweb",
+        "operatore_id": "6f4964b8-3db4-4841-be72-7202c07b17bc",
+        "ora_ricezione": "11:25",
+        "produttore": "Google",
+        "produttore_id": "e42a0bb0-a5e2-4153-b478-683fcfba9250",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3428131,
+          43.4980879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": null,
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "1GGT16",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:26:49.450571",
+        "descrizione_localizzazione": "Frazione Monti comune di Santa Maria Nuova (AN)",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "b4a53075-1377-457a-95f9-e3a7d5f6f35d",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Kena Mobile",
+        "operatore_id": "5c923728-75e6-42db-bbcc-59ee2b0950d2",
+        "ora_ricezione": "11:20",
+        "produttore": "Xiaomi",
+        "produttore_id": "502c58cc-8af7-4aa9-b30f-dfe20b39eb47",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5583301,
+          43.5879526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": null,
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "FW1QUY",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 10:47:14.74682",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "b69e2cee-7385-4c4a-ae40-766121509873",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Very Mobile",
+        "operatore_id": "345f62ba-02de-4eee-aa5d-02f1141c630e",
+        "ora_ricezione": "12:45",
+        "produttore": "Oppo",
+        "produttore_id": "b201dda4-82ea-4684-958f-73a146e1e62e",
+        "ricezione_messaggio": "N",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "N"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2275,
+          43.5205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "XP6GRZ",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:32:26.171179",
+        "descrizione_localizzazione": "Via cupetta 19 Jesi an ",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "b91615bb-4e4e-44db-8b78-3c308a0649ab",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "iPhone 12 ",
+        "note": null,
+        "operatore": "PosteMobile",
+        "operatore_id": "356b5a37-b3f7-42e4-91b6-898c37d8e1ba",
+        "ora_ricezione": "10:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1235166,
+          43.5057887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2022",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "DCMARG",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:25:07.928219",
+        "descrizione_localizzazione": "Moie",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "c6f0a970-323a-4a06-b429-bd032cd1add4",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:20",
+        "produttore": "Oppo",
+        "produttore_id": "b201dda4-82ea-4684-958f-73a146e1e62e",
+        "ricezione_messaggio": "N",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.652163792153143,
+          43.38512275601922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2022",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "YDS7H2",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:27:42.871696",
+        "descrizione_localizzazione": "Contrada San Giro - Potenza Picena",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": "Testo messaggio in lingua italiana e inglese",
+        "entita_organizzatrice": "Marche",
+        "id": "cc9e591f-b055-4631-8e07-08551605e75f",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "iPhone 13",
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.618292,
+          43.437418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "H8A7X8",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:52:08.257786",
+        "descrizione_localizzazione": "Coc loreto",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "d435fb23-588e-4d77-a6e7-d98bf1c2a75b",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "WindTre",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "ora_ricezione": "11:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.18485,
+          43.43341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": null,
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "STUNI7",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:54:47.646336",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "d4bc481a-4709-40e9-865d-f1b071a004b2",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "CoopVoce",
+        "operatore_id": "a2181f6c-1cee-4fa2-8011-0ee9a4b6815b",
+        "ora_ricezione": "11:20",
+        "produttore": "Asus",
+        "produttore_id": "5af2a36f-f6b9-4dd5-9473-c48f4ca673a7",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6161534,
+          43.5260096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2021",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "VC39G5",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:29:46.994249",
+        "descrizione_localizzazione": "Presso sede comune  di sirolo ",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "da93c8ef-b9a2-4ed0-bfb9-012f11d866ff",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "Iphone",
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5725681,
+          43.4733907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": null,
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "3JJV13",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:27:45.908338",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "e1a5b054-8d24-4afe-930e-441d262f12ac",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Very Mobile",
+        "operatore_id": "345f62ba-02de-4eee-aa5d-02f1141c630e",
+        "ora_ricezione": "11:25",
+        "produttore": "Samsung",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.329672,
+          43.4479795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "TH2CPR",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 10:21:13.766532",
+        "descrizione_localizzazione": "Via grazie 66/a locale chiuso-sede COC",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": "IT-Alert\n\nTEST TEST Messaggio di prova IT-alert. E' in corso la SIMULAZIONE del collasso di una diga nella zona in cui ti trovi.\nPer conoscere il messaggio che riceverai in caso di reale pericolo e per compilare il questionario vai su www.it-alert.gov.it\nTEST TEST\nTEST TEST IT-alert test message.\nThere is an ongoing SIMULATION of a dam collapse in the area where you are.\nTo learn what message you will receive in case of real danger and to fill out the survey, go to www.it-alert.gov.it/en TEST TEST\n",
+        "entita_organizzatrice": "Marche",
+        "id": "e1e1319c-472b-473b-a955-884bb2c33b4d",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "Iphone 16 Pro",
+        "note": "Difficoltà ad aprire la pagine di compilazione dati da dispositivo Apple",
+        "operatore": "WindTre",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "ora_ricezione": "11:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.18485,
+          43.43341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "LQ9V8A",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:56:25.42342",
+        "descrizione_localizzazione": "Coc comunale",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "e5fd7179-562d-43f9-81de-803df8ed35a2",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Very Mobile",
+        "operatore_id": "345f62ba-02de-4eee-aa5d-02f1141c630e",
+        "ora_ricezione": "11:20",
+        "produttore": "Wiko",
+        "produttore_id": "f482e226-33f3-410c-9a44-477d8b00a845",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.56745601142515,
+          43.34397370045821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "SD9IY4",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:30:40.187139",
+        "descrizione_localizzazione": "Via bevilacqua 10 montelupone \n",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": "Messaggio ben visibile ",
+        "entita_organizzatrice": "Marche",
+        "id": "e895a0af-167c-4c34-9e76-b09575a5f7ee",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "Iphone 15",
+        "note": null,
+        "operatore": "Iliad",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "ora_ricezione": "11:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.191664,
+          43.5063094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": null,
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "GRL6PQ",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:27:17.945783",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "ef751abb-8d6f-4484-abe3-65459e273fb5",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:20",
+        "produttore": "Samsung",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.341664,
+          43.4350982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2023",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "VQXGVI",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 10:27:57.26162",
+        "descrizione_localizzazione": "Sede protezione civile Filottrano ",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "f0547b49-e315-4c95-90cb-638a6697e66c",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "S23",
+        "note": null,
+        "operatore": "Optima Mobile",
+        "operatore_id": "92609158-9cc4-47c8-9714-3b3d57cfe7e9",
+        "ora_ricezione": "11:20",
+        "produttore": "Samsung",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6161534,
+          43.5260096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "HAS1QA",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:26:12.849166",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "f4d05116-1b0e-4115-be48-0a0c76016d36",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "A54",
+        "note": null,
+        "operatore": "WindTre",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "ora_ricezione": "11:20",
+        "produttore": "Samsung",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4144786,
+          43.4849094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "7T5YQ2",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:27:20.709372",
+        "descrizione_localizzazione": "Casenuove di osimo, pala Baldinelli",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "f621aaa1-e3dc-48c2-a34e-647c44197b5f",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "I phone 15",
+        "note": null,
+        "operatore": "TIM",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "ora_ricezione": "11:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1736606,
+          43.4549745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": null,
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "37PQS1",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:31:27.322579",
+        "descrizione_localizzazione": "Sede comune san paolo di Jesi ",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "f6ad0b0f-b6fc-44da-a406-7be1ae6428f2",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Vodafone",
+        "operatore_id": "9707780f-5dc6-4328-bb3f-13fe02a338f8",
+        "ora_ricezione": "11:15",
+        "produttore": "Xiaomi",
+        "produttore_id": "502c58cc-8af7-4aa9-b30f-dfe20b39eb47",
+        "ricezione_messaggio": "S",
+        "tecnologia": "4G/LTE",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.341558952082481,
+          43.428369009195066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "2ZQWQD",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 09:28:09.050626",
+        "descrizione_localizzazione": null,
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "f958a827-85ab-4900-8524-c59a37ee8489",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": null,
+        "note": null,
+        "operatore": "Vodafone",
+        "operatore_id": "9707780f-5dc6-4328-bb3f-13fe02a338f8",
+        "ora_ricezione": "11:20",
+        "produttore": "Apple",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "ricezione_messaggio": "S",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "S"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6983093,
+          43.3604673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "altro_produttore": null,
+        "anno_acquisto": "2024",
+        "cancellata": false,
+        "codice": "MA04",
+        "codice_compilatore": "ZI2JX2",
+        "codice_test": "MA04",
+        "data": "2026-06-20 09:00:00",
+        "data_ora_rilevazione": "2026-06-20 12:10:40.798001",
+        "descrizione_localizzazione": "Montelupone/porto potenza picena",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "dettaglio_visualizzazione_messaggio": null,
+        "entita_organizzatrice": "Marche",
+        "id": "f9597cb2-7420-40c8-be09-fb974353ddec",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "luoghi_interessati": "Cingoli (MC)",
+        "modello": "Pixel 10 pro",
+        "note": null,
+        "operatore": "CoopVoce",
+        "operatore_id": "a2181f6c-1cee-4fa2-8011-0ee9a4b6815b",
+        "ora_ricezione": "11:40",
+        "produttore": "Google",
+        "produttore_id": "e42a0bb0-a5e2-4153-b478-683fcfba9250",
+        "ricezione_messaggio": "N",
+        "tecnologia": "5G (4.5G)",
+        "tipo_geometria": "Poligono",
+        "tipologia_report": "collasso diga (CGD)",
+        "visualizzazione_messaggio": "N"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
