@@ -1,13 +1,36 @@
 {
+  "type": "FeatureCollection",
+  "name": "MA04_zona_allerta",
   "crs": {
+    "type": "name",
     "properties": {
       "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    },
-    "type": "name"
+    }
   },
   "features": [
     {
+      "type": "Feature",
+      "properties": {
+        "data": "2026-06-20T09:00:00.000Z",
+        "id": "c035a664-5ff3-4242-8a33-afa4a82525f1",
+        "codice": "MA04",
+        "entita_organizzatrice": "Marche",
+        "localizzazione": "Diga di Castreccioni (MC)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Castreccioni (MC)",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Cingoli (MC)",
+        "_id": "%5B'c035a664-5ff3-4242-8a33-afa4a82525f1'%5D",
+        "tableId": "datasource_plus_13c361a866e14f7fb8542c588a901257__test",
+        "idDiga": "1381_",
+        "nArc": "1381",
+        "sub": "_",
+        "nomeDiga": "CASTRECCIONI",
+        "procom_com_valle": "43002,43012,43044,43042,42049,42019,42021,42043,42034,42010,42022,42032,43029,42048",
+        "nomi_com_valle": "Apiro,Cingoli,Recanati,Porto Recanati,Staffolo,Filottrano,Jesi,Santa Maria Nuova,Osimo,Castelfidardo,Loreto,Numana,Montefano,Sirolo"
+      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -211,31 +234,8 @@
               43.47081940366765
             ]
           ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "_id": "%5B'c035a664-5ff3-4242-8a33-afa4a82525f1'%5D",
-        "codice": "MA04",
-        "data": "2026-06-20T09:00:00.000Z",
-        "descrizione_report": "Diga di Castreccioni (MC)",
-        "entita_organizzatrice": "Marche",
-        "id": "c035a664-5ff3-4242-8a33-afa4a82525f1",
-        "idDiga": "1381_",
-        "localizzazione": "Diga di Castreccioni (MC)",
-        "luoghi_interessati": "Cingoli (MC)",
-        "nArc": "1381",
-        "nomeDiga": "CASTRECCIONI",
-        "nomi_com_valle": "Apiro,Cingoli,Recanati,Porto Recanati,Staffolo,Filottrano,Jesi,Santa Maria Nuova,Osimo,Castelfidardo,Loreto,Numana,Montefano,Sirolo",
-        "procom_com_valle": "43002,43012,43044,43042,42049,42019,42021,42043,42034,42010,42022,42032,43029,42048",
-        "sub": "_",
-        "tableId": "datasource_plus_13c361a866e14f7fb8542c588a901257__test",
-        "tipo_geometria": "Poligono",
-        "tipologia_report": "collasso diga (CGD)"
-      },
-      "type": "Feature"
+        ]
+      }
     }
-  ],
-  "name": "MA04_zona_allerta",
-  "type": "FeatureCollection"
+  ]
 }
