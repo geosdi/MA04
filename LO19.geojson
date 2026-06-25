@@ -50,6 +50,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "636c3595-f94a-4b03-abe1-b20c2c79c6a6",
+        "codice_test": "LO19",
+        "codice_compilatore": "50WZSP",
+        "data_ora_rilevazione": "2026-06-25 14:03:44.797721",
+        "descrizione_localizzazione": "Casone pombia ",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "produttore": "Apple",
+        "altro_produttore": null,
+        "modello": null,
+        "anno_acquisto": "2023",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "operatore": "WindTre",
+        "tecnologia": "4G/LTE",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "15:35",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO19",
+        "data": "2026-06-25 13:30:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Porto della Torre (VA)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Porto della Torre (VA)",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Somma Lombardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.670633,
+          45.643544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "8091de3f-5637-4e68-9009-468299f939ec",
         "codice_test": "LO19",
         "codice_compilatore": "5OGZK8",
