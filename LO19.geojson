@@ -46,6 +46,45 @@
           45.63268
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cebb39ff-087b-44a8-899f-cfb6ae743a2a",
+        "codice_test": "LO19",
+        "codice_compilatore": "4HJ5VC",
+        "data_ora_rilevazione": "2026-06-25 13:56:31.931477",
+        "descrizione_localizzazione": null,
+        "produttore_id": "50c979d4-96f8-49f3-97ff-1edae490039e",
+        "produttore": "Motorola",
+        "altro_produttore": null,
+        "modello": "Edge neo",
+        "anno_acquisto": "2024",
+        "operatore_id": "18e17629-81b1-4dc6-9eda-7697c68c0a0d",
+        "operatore": "Tiscali Mobile",
+        "tecnologia": "4G/LTE",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "15:35",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO19",
+        "data": "2026-06-25 13:30:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Porto della Torre (VA)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Porto della Torre (VA)",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Somma Lombardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.672643,
+          45.67521
+        ]
+      }
     }
   ]
 }
