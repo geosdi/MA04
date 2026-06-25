@@ -50,6 +50,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "3a510505-9a2c-48fc-952f-53b045c4692a",
+        "codice_test": "LO19",
+        "codice_compilatore": "JPTCOQ",
+        "data_ora_rilevazione": "2026-06-25 14:46:11.912656",
+        "descrizione_localizzazione": "Cia del gregge/via Molinelli lobate Pozzolo ",
+        "produttore_id": "e42a0bb0-a5e2-4153-b478-683fcfba9250",
+        "produttore": "Google",
+        "altro_produttore": null,
+        "modello": "Samsung ",
+        "anno_acquisto": "2023",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "operatore": "Iliad",
+        "tecnologia": "4G/LTE",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "15:35",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO19",
+        "data": "2026-06-25 13:30:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Porto della Torre (VA)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Porto della Torre (VA)",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Somma Lombardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7490853,
+          45.592073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "636c3595-f94a-4b03-abe1-b20c2c79c6a6",
         "codice_test": "LO19",
         "codice_compilatore": "50WZSP",
