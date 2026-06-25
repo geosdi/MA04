@@ -7,5 +7,45 @@
       "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
     }
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8091de3f-5637-4e68-9009-468299f939ec",
+        "codice_test": "LO19",
+        "codice_compilatore": "5OGZK8",
+        "data_ora_rilevazione": "2026-06-25 13:35:53.977084",
+        "descrizione_localizzazione": "Marano Ticino area picnic\"La caserma\" ",
+        "produttore_id": "cad7437e-8240-4013-87cf-265aa0bde012",
+        "produttore": "Redmi",
+        "altro_produttore": null,
+        "modello": null,
+        "anno_acquisto": "2023",
+        "operatore_id": "9707780f-5dc6-4328-bb3f-13fe02a338f8",
+        "operatore": "Vodafone",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "15:35",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO19",
+        "data": "2026-06-25 13:30:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Porto della Torre (VA)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Porto della Torre (VA)",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Somma Lombardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6629167,
+          45.63268
+        ]
+      }
+    }
+  ]
 }
