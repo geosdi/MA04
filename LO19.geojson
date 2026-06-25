@@ -128,6 +128,84 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "ae1c0cb8-eb5e-405f-8e9e-5ded0086a68b",
+        "codice_test": "LO19",
+        "codice_compilatore": "JDQ20I",
+        "data_ora_rilevazione": "2026-06-25 14:05:32.813",
+        "descrizione_localizzazione": "Piazza santo Stefano vizzola Ticino  ",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "produttore": "Apple",
+        "altro_produttore": null,
+        "modello": "X",
+        "anno_acquisto": "2018",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "operatore": "Iliad",
+        "tecnologia": "4G/LTE",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "15:40",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO19",
+        "data": "2026-06-25 13:30:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Porto della Torre (VA)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Porto della Torre (VA)",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Somma Lombardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.39135,
+          45.36464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "c8088314-2c78-49b3-900f-a9f2856882d4",
+        "codice_test": "LO19",
+        "codice_compilatore": "1SV3ZC",
+        "data_ora_rilevazione": "2026-06-25 14:17:32.021834",
+        "descrizione_localizzazione": "Spiaggia del cascinone Bellinzago ",
+        "produttore_id": "cad7437e-8240-4013-87cf-265aa0bde012",
+        "produttore": "Redmi",
+        "altro_produttore": null,
+        "modello": "Note 12",
+        "anno_acquisto": "2020",
+        "operatore_id": "6f4964b8-3db4-4841-be72-7202c07b17bc",
+        "operatore": "Fastweb",
+        "tecnologia": "4G/LTE",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "15:35",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": "Alletta simulazione di collasso di una diga.",
+        "note": "Una pattuglia da 3 operatori. Ricevuta allerta per ognuno. Reti mobili difficoltosi: Fastweb solo una tacca,  Vodafone riceve solo allerta circa 10 minuti dalle 15:36; Tim solo Allerta ricevuta 5 minuti dopo delle 15:36,difficoltà rete.",
+        "cancellata": false,
+        "codice": "LO19",
+        "data": "2026-06-25 13:30:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Porto della Torre (VA)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Porto della Torre (VA)",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Somma Lombardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7011613,
+          45.5619594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "cebb39ff-087b-44a8-899f-cfb6ae743a2a",
         "codice_test": "LO19",
         "codice_compilatore": "4HJ5VC",
@@ -161,6 +239,45 @@
         "coordinates": [
           8.672643,
           45.67521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dad44d87-4e89-4f2f-ba26-9e9b532869e0",
+        "codice_test": "LO19",
+        "codice_compilatore": "JDQ20I",
+        "data_ora_rilevazione": "2026-06-25 14:00:32.685",
+        "descrizione_localizzazione": "Zona Aeroporto Malpensa comune di ferno ",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "produttore": "Apple",
+        "altro_produttore": null,
+        "modello": "X",
+        "anno_acquisto": "2018",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "operatore": "Iliad",
+        "tecnologia": "4G/LTE",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "15:40",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": "Messaggio ricevuto ma senza Audio causa modalità silenziosa del telefono appena tolta la modalità l’audio ha funzionato ",
+        "note": "-",
+        "cancellata": false,
+        "codice": "LO19",
+        "data": "2026-06-25 13:30:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Porto della Torre (VA)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Porto della Torre (VA)",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Somma Lombardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.443747,
+          45.365659
         ]
       }
     }
