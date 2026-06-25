@@ -128,6 +128,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "6b6eceb4-8f51-475d-93c9-561481d9f3b4",
+        "codice_test": "LO19",
+        "codice_compilatore": "JSS425",
+        "data_ora_rilevazione": "2026-06-25 14:52:11.791192",
+        "descrizione_localizzazione": null,
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "produttore": "Samsung",
+        "altro_produttore": null,
+        "modello": "S26",
+        "anno_acquisto": "2024",
+        "operatore_id": "9707780f-5dc6-4328-bb3f-13fe02a338f8",
+        "operatore": "Vodafone",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "15:35",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO19",
+        "data": "2026-06-25 13:30:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Porto della Torre (VA)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Porto della Torre (VA)",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Somma Lombardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7492978,
+          45.5920248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "8091de3f-5637-4e68-9009-468299f939ec",
         "codice_test": "LO19",
         "codice_compilatore": "5OGZK8",
