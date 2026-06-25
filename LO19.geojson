@@ -11,6 +11,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "27aa5ace-a69e-49a0-859a-06bfa21321b7",
+        "codice_test": "LO19",
+        "codice_compilatore": "HECROM",
+        "data_ora_rilevazione": "2026-06-25 13:58:10.209554",
+        "descrizione_localizzazione": "Zona tra canale industriale , villa del Dosso\nSomma Lombardo ",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "produttore": "Apple",
+        "altro_produttore": null,
+        "modello": "iPhone 13",
+        "anno_acquisto": "2020",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "operatore": "Iliad",
+        "tecnologia": "3G",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "15:45",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": "La tecnologia varia da3a4g",
+        "cancellata": false,
+        "codice": "LO19",
+        "data": "2026-06-25 13:30:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Porto della Torre (VA)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Porto della Torre (VA)",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Somma Lombardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.686604191869382,
+          45.652265491111045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "8091de3f-5637-4e68-9009-468299f939ec",
         "codice_test": "LO19",
         "codice_compilatore": "5OGZK8",
