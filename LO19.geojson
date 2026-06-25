@@ -287,7 +287,7 @@
         "id": "f3befde3-fcef-40f7-a7c4-e94089b3082a",
         "codice_test": "LO19",
         "codice_compilatore": "02O3F4",
-        "data_ora_rilevazione": "2026-06-25 14:19:42.610549",
+        "data_ora_rilevazione": "2026-06-25 14:19:42.61",
         "descrizione_localizzazione": null,
         "produttore_id": "502c58cc-8af7-4aa9-b30f-dfe20b39eb47",
         "produttore": "Xiaomi",
@@ -315,7 +315,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.42023,
+          8.66023,
           45.33397
         ]
       }
