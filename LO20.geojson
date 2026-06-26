@@ -635,6 +635,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "64ed3932-6b7c-46de-b91d-336c88a19366",
+        "codice_test": "LO20",
+        "codice_compilatore": "QBSV72",
+        "data_ora_rilevazione": "2026-06-26 12:25:24.45723",
+        "descrizione_localizzazione": "200 metri dalla postazione di partenza",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "produttore": "Apple",
+        "altro_produttore": null,
+        "modello": "iPhone 14",
+        "anno_acquisto": "2021",
+        "operatore_id": "9707780f-5dc6-4328-bb3f-13fe02a338f8",
+        "operatore": "Vodafone",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "14:25",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.59,
+          45.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "9db76a50-7988-44ae-a87b-f0d126f5c30a",
         "codice_test": "LO20",
         "codice_compilatore": "HFGUW9",
