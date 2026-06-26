@@ -89,6 +89,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "1ba0fed2-e11d-4520-9ba8-875ccfec2346",
+        "codice_test": "LO20",
+        "codice_compilatore": "EDLBVO",
+        "data_ora_rilevazione": "2026-06-26 12:33:47.746605",
+        "descrizione_localizzazione": "Località Massoni.  com. Peschiera del Garda ",
+        "produttore_id": "50c979d4-96f8-49f3-97ff-1edae490039e",
+        "produttore": "Motorola",
+        "altro_produttore": null,
+        "modello": null,
+        "anno_acquisto": "2024",
+        "operatore_id": "1d5ee84d-5869-4593-9479-7b016310c742",
+        "operatore": "1Mobile",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:30",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6503659,
+          45.4340733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "2182e898-240d-46b6-a522-6ee366a7916a",
         "codice_test": "LO20",
         "codice_compilatore": "IL0HU7",
@@ -1058,6 +1097,45 @@
         "coordinates": [
           10.8289297,
           45.4200703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "842d870b-8afd-439f-9e66-c210bb015a4c",
+        "codice_test": "LO20",
+        "codice_compilatore": "69NMVW",
+        "data_ora_rilevazione": "2026-06-26 12:33:31.722149",
+        "descrizione_localizzazione": null,
+        "produttore_id": "cad7437e-8240-4013-87cf-265aa0bde012",
+        "produttore": "Redmi",
+        "altro_produttore": null,
+        "modello": "14c",
+        "anno_acquisto": null,
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "operatore": "WindTre",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:30",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.897254,
+          45.3855928
         ]
       }
     },
