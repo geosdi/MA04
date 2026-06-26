@@ -2585,6 +2585,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "c83aee0f-aadf-4b87-988b-4ab2fbeb0a02",
+        "codice_test": "LO20",
+        "codice_compilatore": "PV2592",
+        "data_ora_rilevazione": "2026-06-26 13:11:18.087888",
+        "descrizione_localizzazione": "Pizzeria cignus ",
+        "produttore_id": "49d41b29-03ae-4d25-8feb-39b3c866b8bb",
+        "produttore": "Altro",
+        "altro_produttore": null,
+        "modello": null,
+        "anno_acquisto": null,
+        "operatore_id": "9707780f-5dc6-4328-bb3f-13fe02a338f8",
+        "operatore": "Vodafone",
+        "tecnologia": "Non so",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "15:00",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.696868,
+          45.3846701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "cedf0e31-9119-4ef9-943e-fd5501aa695d",
         "codice_test": "LO20",
         "codice_compilatore": "44ZLLR",
