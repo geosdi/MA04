@@ -479,6 +479,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "27a461e8-274f-456f-ae6e-98061c98ff98",
+        "codice_test": "LO20",
+        "codice_compilatore": "0A5PZY",
+        "data_ora_rilevazione": "2026-06-26 13:05:29.326221",
+        "descrizione_localizzazione": "Sede Municipio Mozzecane",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "produttore": "Samsung",
+        "altro_produttore": null,
+        "modello": "A30S",
+        "anno_acquisto": "2024",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "operatore": "WindTre",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:05",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8182121,
+          45.3095131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "288b6a03-2441-492f-a462-75a48b704a73",
         "codice_test": "LO20",
         "codice_compilatore": "CK5KJV",
@@ -902,6 +941,45 @@
         "coordinates": [
           10.6748867,
           45.2539316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3d9e08d3-6cf7-40ed-a81e-57ab8384302a",
+        "codice_test": "LO20",
+        "codice_compilatore": "CMQSDH",
+        "data_ora_rilevazione": "2026-06-26 13:05:38.649342",
+        "descrizione_localizzazione": null,
+        "produttore_id": "cad7437e-8240-4013-87cf-265aa0bde012",
+        "produttore": "Redmi",
+        "altro_produttore": null,
+        "modello": null,
+        "anno_acquisto": "2024",
+        "operatore_id": "9707780f-5dc6-4328-bb3f-13fe02a338f8",
+        "operatore": "Vodafone",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "15:05",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7113417,
+          45.420135
         ]
       }
     },
