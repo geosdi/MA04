@@ -596,6 +596,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "2b36f263-db61-4c3e-9420-d03cbc5dd46f",
+        "codice_test": "LO20",
+        "codice_compilatore": "DF3GQ5",
+        "data_ora_rilevazione": "2026-06-26 13:22:02.501502",
+        "descrizione_localizzazione": "Via Dolci, Peschiera del Garda",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "produttore": "Apple",
+        "altro_produttore": null,
+        "modello": "iPhone ",
+        "anno_acquisto": "2024",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "operatore": "Iliad",
+        "tecnologia": "4G/LTE",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:30",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6856934,
+          45.4243832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "2b9bb2ea-95a3-435f-9b1b-0260a659730e",
         "codice_test": "LO20",
         "codice_compilatore": "5FMNKV",
