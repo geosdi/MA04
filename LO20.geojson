@@ -50,6 +50,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "13fa88d8-bfbf-4ba1-8748-4557f346c216",
+        "codice_test": "LO20",
+        "codice_compilatore": "69NMVW",
+        "data_ora_rilevazione": "2026-06-26 12:43:55.793011",
+        "descrizione_localizzazione": null,
+        "produttore_id": "cad7437e-8240-4013-87cf-265aa0bde012",
+        "produttore": "Redmi",
+        "altro_produttore": null,
+        "modello": "13 c",
+        "anno_acquisto": null,
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "operatore": "WindTre",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:40",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8614689,
+          45.3705495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "14542eae-cff4-4bc3-8b5d-eb0ff63047cc",
         "codice_test": "LO20",
         "codice_compilatore": "AWFJBR",
@@ -2267,6 +2306,45 @@
         "coordinates": [
           10.856733501263138,
           45.31521399700873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "e11e2da7-d929-4469-8c0b-a9b60f742bce",
+        "codice_test": "LO20",
+        "codice_compilatore": "44ZLLR",
+        "data_ora_rilevazione": "2026-06-26 12:43:43.423718",
+        "descrizione_localizzazione": "Via Tito sperti quaderni ",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "produttore": "Apple",
+        "altro_produttore": null,
+        "modello": "I phone 13",
+        "anno_acquisto": "2022",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "operatore": "TIM",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "14:40",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.785507237979006,
+          45.32365559950519
         ]
       }
     },
