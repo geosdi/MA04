@@ -1532,6 +1532,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "6d963b37-6bd2-40a1-9221-b5e4c30c340a",
+        "codice_test": "LO20",
+        "codice_compilatore": "EDLBVO",
+        "data_ora_rilevazione": "2026-06-26 13:24:35.158978",
+        "descrizione_localizzazione": "Sr 249 ex casello ferroviario Peschiera Mantova",
+        "produttore_id": "50c979d4-96f8-49f3-97ff-1edae490039e",
+        "produttore": "Motorola",
+        "altro_produttore": null,
+        "modello": "Moto g84 5g",
+        "anno_acquisto": "2024",
+        "operatore_id": "9707780f-5dc6-4328-bb3f-13fe02a338f8",
+        "operatore": "Vodafone",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "15:25",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7113302,
+          45.4201777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "6f11e4d1-4d56-4a14-adb4-286e81a7c26f",
         "codice_test": "LO20",
         "codice_compilatore": "NREJ1V",
