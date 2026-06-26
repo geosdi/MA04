@@ -7,5 +7,162 @@
       "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
     }
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2fb50451-b54a-4084-8a6b-7c8c2df240f4",
+        "codice_test": "LO20",
+        "codice_compilatore": "46ATG6",
+        "data_ora_rilevazione": "2026-06-26 12:10:46.021566",
+        "descrizione_localizzazione": "san zeno di Mozzecane\nvia quartieri, dietro alla chiesa",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "produttore": "Apple",
+        "altro_produttore": null,
+        "modello": "iphone 15 max",
+        "anno_acquisto": "2024",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "operatore": "Iliad",
+        "tecnologia": "4G/LTE",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:10",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.831089654965739,
+          45.32027439983305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ba9e956d-f4ee-43cb-a33c-293549ba492f",
+        "codice_test": "LO20",
+        "codice_compilatore": "2O7N4D",
+        "data_ora_rilevazione": "2026-06-26 12:10:45.746426",
+        "descrizione_localizzazione": "Frazione Tormine di Mozzecane - Verona",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "produttore": "Samsung",
+        "altro_produttore": null,
+        "modello": "A56",
+        "anno_acquisto": "2024",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "operatore": "WindTre",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:10",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8224081,
+          45.2906554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "df619982-7255-4559-b765-afd53b9d87c7",
+        "codice_test": "LO20",
+        "codice_compilatore": "44ZLLR",
+        "data_ora_rilevazione": "2026-06-26 12:10:45.786031",
+        "descrizione_localizzazione": "Grezzano",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "produttore": "Apple",
+        "altro_produttore": null,
+        "modello": "I phone 13 ",
+        "anno_acquisto": "2022",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "operatore": "TIM",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:10",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.857000577426522,
+          45.31516127573087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "e3d60735-a7c4-43c3-9b8f-285c477768e0",
+        "codice_test": "LO20",
+        "codice_compilatore": "4R2TS3",
+        "data_ora_rilevazione": "2026-06-26 12:10:44.369092",
+        "descrizione_localizzazione": "Zona industriale Mozzecane Vr ",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "produttore": "Apple",
+        "altro_produttore": null,
+        "modello": "iPhone 17 pro Max ",
+        "anno_acquisto": "2024",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "operatore": "Iliad",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:10",
+        "visualizzazione_messaggio": null,
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.833769215112572,
+          45.311859107245894
+        ]
+      }
+    }
+  ]
 }
