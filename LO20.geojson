@@ -830,6 +830,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "3c395466-9557-4617-a2e0-187ea7555227",
+        "codice_test": "LO20",
+        "codice_compilatore": "4R2TS3",
+        "data_ora_rilevazione": "2026-06-26 12:48:10.51251",
+        "descrizione_localizzazione": "Via Quaderni ",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "produttore": "Apple",
+        "altro_produttore": null,
+        "modello": "iPhone 27 Pro Max ",
+        "anno_acquisto": null,
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "operatore": "Iliad",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "14:40",
+        "visualizzazione_messaggio": null,
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.762840295355332,
+          45.33839494235215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "3cd0164a-45ef-473d-a9b0-c298b1fb8342",
         "codice_test": "LO20",
         "codice_compilatore": "OV6LWC",
