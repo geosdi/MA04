@@ -1805,6 +1805,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "8eac710e-5391-4e77-ac25-146fa193609d",
+        "codice_test": "LO20",
+        "codice_compilatore": "9KJR10",
+        "data_ora_rilevazione": "2026-06-26 13:08:48.337165",
+        "descrizione_localizzazione": null,
+        "produttore_id": "49d41b29-03ae-4d25-8feb-39b3c866b8bb",
+        "produttore": "Altro",
+        "altro_produttore": null,
+        "modello": null,
+        "anno_acquisto": null,
+        "operatore_id": "422b0d8b-fec4-4fc8-a724-16faeb895888",
+        "operatore": "Altro",
+        "tecnologia": "4G/LTE",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "15:10",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7601081,
+          45.4348304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "93cde779-f72d-4973-b479-8c8c3baef45e",
         "codice_test": "LO20",
         "codice_compilatore": "QBSV72",
@@ -2267,6 +2306,45 @@
         "coordinates": [
           10.8224081,
           45.2906554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bbbd6895-58c5-44dd-84aa-eea635a47626",
+        "codice_test": "LO20",
+        "codice_compilatore": "57UTI2",
+        "data_ora_rilevazione": "2026-06-26 13:08:19.309479",
+        "descrizione_localizzazione": "Municipio villfrnca di verona",
+        "produttore_id": "49d41b29-03ae-4d25-8feb-39b3c866b8bb",
+        "produttore": "Altro",
+        "altro_produttore": "Miu",
+        "modello": null,
+        "anno_acquisto": "2022",
+        "operatore_id": "356b5a37-b3f7-42e4-91b6-898c37d8e1ba",
+        "operatore": "PosteMobile",
+        "tecnologia": "4G/LTE",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "15:35",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.845516,
+          45.351287
         ]
       }
     },
