@@ -1454,6 +1454,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "ab670b35-b7fd-4283-aae4-905d6d113f3f",
+        "codice_test": "LO20",
+        "codice_compilatore": "9XGJRD",
+        "data_ora_rilevazione": "2026-06-26 12:37:51.131448",
+        "descrizione_localizzazione": "Localita canova di sona ",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "produttore": "Samsung",
+        "altro_produttore": null,
+        "modello": null,
+        "anno_acquisto": null,
+        "operatore_id": "422b0d8b-fec4-4fc8-a724-16faeb895888",
+        "operatore": "Altro",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:40",
+        "visualizzazione_messaggio": null,
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8811601,
+          45.4322709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ad007e0c-80d7-4e46-ab5e-0721300a690d",
         "codice_test": "LO20",
         "codice_compilatore": "P81B96",
