@@ -1571,6 +1571,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "969108d7-9e9d-46c3-9260-5983492bc7b6",
+        "codice_test": "LO20",
+        "codice_compilatore": "C19RIF",
+        "data_ora_rilevazione": "2026-06-26 12:45:26.198508",
+        "descrizione_localizzazione": "Distributore carburante sm",
+        "produttore_id": "502c58cc-8af7-4aa9-b30f-dfe20b39eb47",
+        "produttore": "Xiaomi",
+        "altro_produttore": null,
+        "modello": null,
+        "anno_acquisto": "2024",
+        "operatore_id": "9707780f-5dc6-4328-bb3f-13fe02a338f8",
+        "operatore": "Vodafone",
+        "tecnologia": "3G",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:40",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.711385,
+          45.44754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "9db76a50-7988-44ae-a87b-f0d126f5c30a",
         "codice_test": "LO20",
         "codice_compilatore": "HFGUW9",
