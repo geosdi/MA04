@@ -11,6 +11,84 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "14542eae-cff4-4bc3-8b5d-eb0ff63047cc",
+        "codice_test": "LO20",
+        "codice_compilatore": "AWFJBR",
+        "data_ora_rilevazione": "2026-06-26 12:14:39.748956",
+        "descrizione_localizzazione": null,
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "produttore": "Samsung",
+        "altro_produttore": null,
+        "modello": "S25",
+        "anno_acquisto": "2024",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "operatore": "WindTre",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:15",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7406218,
+          45.4076765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "288b6a03-2441-492f-a462-75a48b704a73",
+        "codice_test": "LO20",
+        "codice_compilatore": "CK5KJV",
+        "data_ora_rilevazione": "2026-06-26 12:14:59.923803",
+        "descrizione_localizzazione": null,
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "produttore": "Apple",
+        "altro_produttore": null,
+        "modello": "14plus ",
+        "anno_acquisto": "2023",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "operatore": "WindTre",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "14:15",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.724118764622174,
+          45.41717976569112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "2fb50451-b54a-4084-8a6b-7c8c2df240f4",
         "codice_test": "LO20",
         "codice_compilatore": "46ATG6",
