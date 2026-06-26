@@ -1688,6 +1688,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "93cde779-f72d-4973-b479-8c8c3baef45e",
+        "codice_test": "LO20",
+        "codice_compilatore": "QBSV72",
+        "data_ora_rilevazione": "2026-06-26 13:02:47.813168",
+        "descrizione_localizzazione": "Campo sportivo pozzolo ",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "produttore": "Apple",
+        "altro_produttore": null,
+        "modello": "iPhone 14",
+        "anno_acquisto": "2022",
+        "operatore_id": "9707780f-5dc6-4328-bb3f-13fe02a338f8",
+        "operatore": "Vodafone",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "15:00",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.71,
+          45.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "969108d7-9e9d-46c3-9260-5983492bc7b6",
         "codice_test": "LO20",
         "codice_compilatore": "C19RIF",
