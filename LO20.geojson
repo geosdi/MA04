@@ -1064,6 +1064,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "41f40443-9324-4002-b2d3-baea5b5112b3",
+        "codice_test": "LO20",
+        "codice_compilatore": "ESPM3I",
+        "data_ora_rilevazione": "2026-06-26 13:07:30.234122",
+        "descrizione_localizzazione": "SR249, ex casello ferroviario, Peschiera del Garda ",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "produttore": "Samsung",
+        "altro_produttore": null,
+        "modello": "GalaxyA50",
+        "anno_acquisto": "2019",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "operatore": "Iliad",
+        "tecnologia": "4G/LTE",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "15:05",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": "Non ricevuto",
+        "note": "Nessun messaggio ricevuto",
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7112916,
+          45.4201286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "49ce3e60-e9a0-488c-b2e4-d7de224c18b6",
         "codice_test": "LO20",
         "codice_compilatore": "P6FMLZ",
