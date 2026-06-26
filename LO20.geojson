@@ -167,6 +167,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "240d7293-2c5d-4669-b2a7-920fbad3327f",
+        "codice_test": "LO20",
+        "codice_compilatore": "2O7N4D",
+        "data_ora_rilevazione": "2026-06-26 12:32:13.925896",
+        "descrizione_localizzazione": "Strada levata Mozzecane - Verona",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "produttore": "Samsung",
+        "altro_produttore": null,
+        "modello": "A56",
+        "anno_acquisto": "2024",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "operatore": "WindTre",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:30",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.789424,
+          45.3196085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "25614aae-797b-4dc9-8e24-6268680fa184",
         "codice_test": "LO20",
         "codice_compilatore": "AWFJBR",
@@ -908,6 +947,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "82e37eca-cb1b-4d57-ae42-832d09e2f15c",
+        "codice_test": "LO20",
+        "codice_compilatore": "8TEQPK",
+        "data_ora_rilevazione": "2026-06-26 12:31:54.511312",
+        "descrizione_localizzazione": null,
+        "produttore_id": "e42a0bb0-a5e2-4153-b478-683fcfba9250",
+        "produttore": "Google",
+        "altro_produttore": null,
+        "modello": null,
+        "anno_acquisto": null,
+        "operatore_id": "ec6effeb-ea65-4561-b736-c9c9b01e53d2",
+        "operatore": "Fastweb",
+        "tecnologia": "4G/LTE",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:25",
+        "visualizzazione_messaggio": null,
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8289297,
+          45.4200703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "886155c9-1c3b-494d-acc4-202b4eda0947",
         "codice_test": "LO20",
         "codice_compilatore": "PCH7KT",
@@ -1175,6 +1253,45 @@
         "coordinates": [
           10.5874834,
           45.2034684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "b52ce5f7-350f-4761-a5c2-17db187fbd5b",
+        "codice_test": "LO20",
+        "codice_compilatore": "4R2TS3",
+        "data_ora_rilevazione": "2026-06-26 12:31:27.24809",
+        "descrizione_localizzazione": "Via Morandini ",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "produttore": "Apple",
+        "altro_produttore": null,
+        "modello": "iPhone 17 Pro Max ",
+        "anno_acquisto": "2024",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "operatore": "Iliad",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:30",
+        "visualizzazione_messaggio": null,
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.794366323041107,
+          45.32260200923559
         ]
       }
     },
@@ -1487,6 +1604,45 @@
         "coordinates": [
           10.8172398,
           45.3120119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc036edd-bd78-4475-88ca-58de51ddb2e4",
+        "codice_test": "LO20",
+        "codice_compilatore": "BM60UR",
+        "data_ora_rilevazione": "2026-06-26 12:31:39.814414",
+        "descrizione_localizzazione": "Piazza Sant' Andrea Sandra'",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "produttore": "Samsung",
+        "altro_produttore": null,
+        "modello": "S36",
+        "anno_acquisto": "2024",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "operatore": "WindTre",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:15",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": "Messaggio non pervenuto ",
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7853011,
+          45.4606959
         ]
       }
     },
