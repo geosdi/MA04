@@ -1454,6 +1454,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "81e4396f-e9db-491c-8d0c-6cc609f5afd8",
+        "codice_test": "LO20",
+        "codice_compilatore": "9KJR10",
+        "data_ora_rilevazione": "2026-06-26 12:57:13.931962",
+        "descrizione_localizzazione": "Baita alpini palazzolo",
+        "produttore_id": "49d41b29-03ae-4d25-8feb-39b3c866b8bb",
+        "produttore": "Altro",
+        "altro_produttore": "Lg",
+        "modello": "G7thinQ",
+        "anno_acquisto": null,
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "operatore": "Iliad",
+        "tecnologia": "4G/LTE",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:55",
+        "visualizzazione_messaggio": null,
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8194558,
+          45.4464057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "82e37eca-cb1b-4d57-ae42-832d09e2f15c",
         "codice_test": "LO20",
         "codice_compilatore": "8TEQPK",
