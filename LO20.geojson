@@ -2117,6 +2117,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "c0b3ea41-5e98-4ab9-a723-1b4432416af7",
+        "codice_test": "LO20",
+        "codice_compilatore": "P81B96",
+        "data_ora_rilevazione": "2026-06-26 12:50:00.299455",
+        "descrizione_localizzazione": "Parcheggio",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "produttore": "Samsung",
+        "altro_produttore": null,
+        "modello": "Galaxy A54",
+        "anno_acquisto": "2023",
+        "operatore_id": "04115d67-dd3c-4306-abe6-92c454ff4e75",
+        "operatore": "TIM",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "14:45",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": "Nel messaggio il link citato non permetteva di accedere alla pagina web relativa. ",
+        "note": "È rimasto attivo il primo segnale ricevuto. Non sono arrivati altri segnali. \nIn questa postazione ho proceduto a premere OK sul messaggio. Ora procedo a girare per il Comune di Mantova.",
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.788783,
+          45.1644745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "c718b252-9880-4fac-bfb6-40cb5f27a3e4",
         "codice_test": "LO20",
         "codice_compilatore": "8HO3F3",
