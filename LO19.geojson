@@ -89,6 +89,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "3d1c04dd-0898-4248-bbca-92875ab5e728",
+        "codice_test": "LO19",
+        "codice_compilatore": "JDQ20I",
+        "data_ora_rilevazione": "2026-06-25 14:15:08.226",
+        "descrizione_localizzazione": "Via Don G.Zosi Vizzola Ticino",
+        "produttore_id": "297335ef-b509-4a88-a3ca-7016f619d952",
+        "produttore": "Apple",
+        "altro_produttore": null,
+        "modello": "X",
+        "anno_acquisto": "2018",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "operatore": "Iliad",
+        "tecnologia": "4G/LTE",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "15:45",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO19",
+        "data": "2026-06-25 13:30:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Porto della Torre (VA)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Porto della Torre (VA)",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Somma Lombardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7056,
+          45.6262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "636c3595-f94a-4b03-abe1-b20c2c79c6a6",
         "codice_test": "LO19",
         "codice_compilatore": "50WZSP",
@@ -356,6 +395,45 @@
         "coordinates": [
           8.743747,
           45.615659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "db2a04d0-700e-4bd1-954c-f90f48ad98f2",
+        "codice_test": "LO19",
+        "codice_compilatore": "JPQH7E",
+        "data_ora_rilevazione": "2026-06-25 14:57:36.585",
+        "descrizione_localizzazione": null,
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "produttore": "Samsung",
+        "altro_produttore": null,
+        "modello": "S21",
+        "anno_acquisto": null,
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "operatore": "Iliad",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "15:35",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO19",
+        "data": "2026-06-25 13:30:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Porto della Torre (VA)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Porto della Torre (VA)",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Somma Lombardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.42385,
+          45.36135
         ]
       }
     },
