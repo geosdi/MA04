@@ -1493,6 +1493,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "6a3d77a8-2a4f-4b23-bfce-3050f0f74c91",
+        "codice_test": "LO20",
+        "codice_compilatore": "QUBBJ2",
+        "data_ora_rilevazione": "2026-06-26 15:12:15.921985",
+        "descrizione_localizzazione": null,
+        "produttore_id": "e42a0bb0-a5e2-4153-b478-683fcfba9250",
+        "produttore": "Google",
+        "altro_produttore": null,
+        "modello": "Pixel",
+        "anno_acquisto": "2024",
+        "operatore_id": "37029d75-a492-4b83-8437-7328a49f5620",
+        "operatore": "Iliad",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:15",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.787595,
+          45.122934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "6ca96187-73fe-46d7-acbc-b08d9c1c627e",
         "codice_test": "LO20",
         "codice_compilatore": "PCH7KT",
