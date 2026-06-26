@@ -89,6 +89,45 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "1727ad1a-7051-4b80-b2b3-784d3901ca65",
+        "codice_test": "LO20",
+        "codice_compilatore": "P6FMLZ",
+        "data_ora_rilevazione": "2026-06-26 12:35:56.242495",
+        "descrizione_localizzazione": "Marengo",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "produttore": "Samsung",
+        "altro_produttore": null,
+        "modello": "A21S ",
+        "anno_acquisto": null,
+        "operatore_id": "9707780f-5dc6-4328-bb3f-13fe02a338f8",
+        "operatore": "Vodafone",
+        "tecnologia": "4G/LTE",
+        "ricezione_messaggio": "S",
+        "ora_ricezione": "14:35",
+        "visualizzazione_messaggio": "S",
+        "dettaglio_visualizzazione_messaggio": null,
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7337947,
+          45.2551688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1ba0fed2-e11d-4520-9ba8-875ccfec2346",
         "codice_test": "LO20",
         "codice_compilatore": "EDLBVO",
@@ -1994,6 +2033,45 @@
         "coordinates": [
           10.833769215112572,
           45.311859107245894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "e8034790-bc37-4a90-ae04-f5459ccb5537",
+        "codice_test": "LO20",
+        "codice_compilatore": "BM60UR",
+        "data_ora_rilevazione": "2026-06-26 12:36:37.653408",
+        "descrizione_localizzazione": "Via San Marco Sandra'",
+        "produttore_id": "c9441fd4-d754-4539-aee9-102ae4437b6f",
+        "produttore": "Samsung",
+        "altro_produttore": null,
+        "modello": "A36",
+        "anno_acquisto": "2024",
+        "operatore_id": "7acc9b59-18c4-4823-a343-ac9f9d4cc239",
+        "operatore": "WindTre",
+        "tecnologia": "5G (4.5G)",
+        "ricezione_messaggio": "N",
+        "ora_ricezione": "14:35",
+        "visualizzazione_messaggio": "N",
+        "dettaglio_visualizzazione_messaggio": "Messaggio non pervenuto ",
+        "note": null,
+        "cancellata": false,
+        "codice": "LO20",
+        "data": "2026-06-26 00:00:00",
+        "entita_organizzatrice": "Lombardia",
+        "localizzazione": "Diga di Salionze (MN)",
+        "tipologia_report": "collasso diga (CGD)",
+        "descrizione_report": "Diga di Salionze",
+        "tipo_geometria": "Poligono",
+        "luoghi_interessati": "Ponti sul Mincio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7852375,
+          45.4613766
         ]
       }
     },
